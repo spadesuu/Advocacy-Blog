@@ -1,2 +1,2 @@
 # Advocacy-Blog
-For effective Communication
+For Effective Communication
